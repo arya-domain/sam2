@@ -1,3 +1,5 @@
 input/*
 lib/*
 working/*
+*.pt
+*.pth
